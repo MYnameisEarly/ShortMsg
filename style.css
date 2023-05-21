@@ -22,7 +22,7 @@ body {
     font-weight: bold;
     text-align: justify;
     position: relative;
-    animation: scroll 360s linear forwards;
+    animation: scroll 600s linear forwards;
 }
 
 h1, h2 {
